@@ -22,5 +22,5 @@ const noDefined:undefined=undefined;
 // If a value doesn't match a type, TypeScript will throw an error when it compiles. For example
 // this is no-no :
 
-const bootMessage:string=23;
+// const bootMessage:string=23;
 // Error : Type 'number' is not assignable to type 'string'.
